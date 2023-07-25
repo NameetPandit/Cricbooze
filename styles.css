@@ -1,0 +1,56 @@
+h1
+{
+    text-align:center;
+    background-color:wheat;
+}
+/* h2
+{
+    text-align:center;
+    background-color:tomato;
+    
+} */
+h3
+{
+    text-align:center;
+    background-color: rgb(67, 158, 158);
+
+}
+.center
+{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 25%;
+}
+nav
+{
+    background: #0082e6;
+    height:80px;
+    width:100%;
+
+}
+label.logo
+{
+    color:white;
+    font-size: 35px;
+    line-height: 80px;
+    padding:0 100px;
+    font-weight: bold;
+}
+nav ul
+{
+    float: right;
+    margin-right: 20px;
+}
+nav ul li
+{
+    display: inline-block;
+    margin: 0 5px
+}
+nav ul li a
+{
+    color:white;
+    font-size:17px;
+    
+
+}
